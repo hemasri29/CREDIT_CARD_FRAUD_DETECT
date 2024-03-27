@@ -1,3 +1,2 @@
-# CRUD-Application
-
-Demo Video: https://youtu.be/_6gbQIjTVb0
+Credit card fraud detection using machine learning .
+This is a classification problem so here I am using logistic regression.
